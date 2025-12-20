@@ -1,5 +1,20 @@
-O MobiTech é um site web focado na curadoria e indicação de celulares e tablets, criado para facilitar a decisão de compra dos usuários por meio de uma experiência simples, rápida e confiável.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-O projeto foi desenvolvido utilizando HTML5, CSS3 e JavaScript puro (sem frameworks), priorizando performance, SEO e compatibilidade com plataformas de hospedagem estática como a Vercel.
+# Run and deploy your AI Studio app
 
-O site é voltado para monetização através do Programa de Afiliados do Mercado Livre, direcionando os usuários para ofertas de smartphones e tablets com foco em custo-benefício, tecnologia atual e usabilidade.
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1Azf4v_a0oUhg4zw8UTgA1yg4BPHhI_-X
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
